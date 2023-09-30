@@ -2,7 +2,7 @@
 - 👀 I’m interested in post-quantum Quantum Encryptions
 - 🌱 I’m currently learning ... Everything in Quantum mode
 - 💞️ I’m looking to collaborate on Quantum Encryptions
-- 📫 How to reach me ...
+- 📫 How to reach me ... quanty22@eighttoseven.com
 
 <!---
 Quanty22/Quanty22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
