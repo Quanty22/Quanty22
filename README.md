@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Quanty22
 - 👀 I’m interested in post-quantum Quantum Encryptions
-- 🌱 I’m currently learning ... Everything
-- 💞️ I’m looking to collaborate on quantum Encryptions
+- 🌱 I’m currently learning ... Everything in Quantum mode
+- 💞️ I’m looking to collaborate on Quantum Encryptions
 - 📫 How to reach me ...
 
 <!---
