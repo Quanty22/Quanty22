@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @Quanty22
-- 👀 I’m interested in post-quantum Quantum Encryptions
-- 🌱 I’m currently learning ... Everything in Quantum mode
-- 💞️ I’m looking to collaborate on Quantum Encryptions with companies worldwide.
-- 📫 How to reach me ... quanty22@eighttoseven.com
-- out our website and explore something new in Encryption
+- 👋 Hi, We are 8(to)7
+- 👀 We are  interested in post-quantum Quantum Encryptions worldwide
+- 🌱 We currently deploying our code in multiple Industries segments.
+- 💞️ We are looking to collaborate on quantum encryption with companies worldwide.
+- 📫 How to reach us... quanty22@eighttoseven.com
+Our encryption can be used not only for data but also for transmissions.
+  Reduce data storage, reduce transmission time, and be Quantum resistant
 
 <!---
 Quanty22/Quanty22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
