@@ -4,7 +4,7 @@
 - 💞️ We are looking to collaborate on quantum encryption with companies worldwide.
 - 📫 How to reach us... quanty22@eighttoseven.com
 Our encryption can be used not only for data but also for transmissions.
-  Reduce data storage, reduce transmission time, and be Quantum resistant
+  Reduce data storage, reduce transmission time, and be Quantum resistant!
 
 <!---
 Quanty22/Quanty22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
