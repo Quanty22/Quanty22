@@ -1,6 +1,6 @@
 - 👋 Hi, We are 8(to)7
 - 👀 We are  interested in post-quantum Quantum Encryptions worldwide
-- 🌱 We currently deploying our code in multiple Industries segments.
+- 🌱 We currently deploying our code and being tested in multiple Industries segments.
 - 💞️ We are looking to collaborate on quantum encryption with companies worldwide.
 - 📫 How to reach us... quanty22@eighttoseven.com
 Our encryption can be used not only for data but also for transmissions.
