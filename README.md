@@ -14,8 +14,8 @@ You can click the Preview link to take a look at your changes.
 Our open source code is for every  GitHub account accessible  (request access)
 In light of the ongoing global political discourse regarding encryption, coupled with evolving worldwide regulations that pertain to encryption accessibility, including discussions about the introduction of backdoors, as well as the imposition of limitations on public encryption access in various countries, encryption providers today face substantial challenges in adhering to both global and local laws while offering encryption platforms.
 
-The list of countries imposing import and export restrictions on other nations is constantly expanding and changing. In this context, 8(to)7, as a Dutch entity, is committed to upholding Dutch regulations and laws.
+The list of countries imposing software/hardware import and export restrictions on other nations is constantly expanding and changing. In this context, 8(to)7, as a Dutch entity, is committed to upholding Dutch regulations and laws.
 
 At 8(to)7, we are staunch advocates of open-source software. To this end, we have established an organizational page where, upon a simple request, you will be promptly granted unrestricted access to our source code.
 
-The 8(to)7 team remains dedicated to this mission.
+The 8(to)7 team remains dedicated to the mission !Encryption is a right for everybody!
