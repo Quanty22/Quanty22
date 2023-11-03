@@ -11,4 +11,4 @@ Check out our source code and find out for yourself the many advantages 8(to)7 h
 Quanty22/Quanty22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Our open source code is for every  GitHub account (request access)
+Our open source code is for every  GitHub account accessible  (request access)
