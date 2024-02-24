@@ -52,3 +52,4 @@ At 8(to)7, we are staunch advocates of open-source software. To this end, we hav
 The 8(to)7 team remains dedicated to the mission !Encryption is a right for everybody!
 
 You can easily access our source codes by becoming a member of our organization page by providing: GitHub account or  Email address
+You just explore our open source version 
